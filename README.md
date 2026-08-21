@@ -44,7 +44,15 @@ An AI-powered pet healthcare platform combining machine learning and LLM-based f
 🔗 **[Live Demo](https://veticare-seven.vercel.app)**
 
 ---
+### Aegis Moderation Service
 
+An AI-powered content moderation service designed to analyze and classify potentially harmful or inappropriate content through a backend API.
+
+Tech: Python · AI/ML · FastAPI · REST APIs
+
+🔗 **[GitHub Repository](https://github.com/nkhlxdhmn/-Aegis-Moderation-Service)**
+
+---
 ## Experience
 
 **AI/ML Systems Intern — Indian Institute of Technology, Mandi**
@@ -56,13 +64,7 @@ Worked on AI-powered backend systems, REST APIs, multimodal AI pipelines, semant
 Worked on RAG-based applications using FAISS and Sentence Transformers, including large-scale vector indexing and retrieval optimization.
 
 ---
-### Aegis Moderation Service
 
-An AI-powered content moderation service designed to analyze and classify potentially harmful or inappropriate content through a backend API.
-
-Tech: Python · AI/ML · FastAPI · REST APIs
-
-🔗 **[GitHub Repository](https://github.com/nkhlxdhmn/-Aegis-Moderation-Service)**
 
 ## Connect With Me
 
