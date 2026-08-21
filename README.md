@@ -68,7 +68,7 @@ Worked on RAG-based applications using FAISS and Sentence Transformers, includin
 
 ## Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/nikhilldhimann) · [Portfolio](https://nikhilldhimann04.vercel.app/) · [GitHub](https://github.com/nkhlxdhmn)
+[LinkedIn](https://www.linkedin.com/in/nikhilldhimann04) · [Portfolio](https://nikhilldhimann04.vercel.app/) · [GitHub](https://github.com/nkhlxdhmn)
 
 ---
 
