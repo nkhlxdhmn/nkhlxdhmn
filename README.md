@@ -14,7 +14,7 @@ I work primarily with **Python, FastAPI, PyTorch, Machine Learning, LLMs, RAG, P
 
 ## Tech Stack
 
-**Languages:** Python, C++, JavaScript
+**Languages:** Python, SQL, C++, JavaScript
 **AI/ML:** PyTorch, Scikit-learn, Hugging Face Transformers, LLMs, RAG, Computer Vision
 **Backend:** FastAPI, Flask, REST APIs, AsyncIO
 **Databases:** PostgreSQL, MySQL, Redis, Supabase
